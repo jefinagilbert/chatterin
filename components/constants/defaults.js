@@ -1,0 +1,3 @@
+export const CHATTERINCOLORS = {
+    BGCOLOR : "#2C4226", BTNCOLOR : "#2C4226", 
+}
