@@ -76,6 +76,8 @@ export default function App(){
     )
   }
 
+  console.log("hiiiii")
+
   return(
     <Provider store={store}>
       <NavigationContainer>
